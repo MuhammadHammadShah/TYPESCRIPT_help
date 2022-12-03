@@ -1,2 +1,2 @@
 # TYPESCRIPT_help
-follow these step and your code will compile  correctly
+follow these steps and your code will compile  correctly
