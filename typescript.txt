@@ -1,6 +1,7 @@
 install node.js
 . From browser
 
+open cmd from startMenu 
 
 install typescript
 . Through this command ..>>>>>>>>>>>>       npm i -g typscript
