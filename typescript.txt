@@ -1,0 +1,29 @@
+install node.js
+. From browser
+
+
+install typescript
+. Through this command ..>>>>>>>>>>>>       npm i -g typscript
+
+
+
+create folder of any 
+.push it in vscode 
+
+
+create tsconfig.json file
+. Through this command ...>>>>>>>>> tsc --init 
+
+
+create packae.json file
+.Through this command ...>>>>>>>>>> npm init -y or npm init
+
+=============================================================================================
+
+TO RUN CODE in typescript file 
+.Do this ....>>>>>>>>>>>>  {for example file name is script.ts} ..>>>>>>>>>>>> tsc script.ts
+
+this will create a file of same name as script.js but will be  javascript file
+.Then do this  ....>>>>>>>>>>> node script.js
+
+((((((((.........THE FILE WILL EXECUTE if there is no error IN THE CODE.......))))))))
